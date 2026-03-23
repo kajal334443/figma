@@ -1,0 +1,364 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} 
+body{
+  background-color: rgb(7, 61, 40);
+ }
+ h1{
+  font-size: 15px;
+  text-align: center;
+ }
+ #X{
+  text-align: start;
+  color: blue;
+ }
+ #C{
+  text-align: start;
+ 
+  
+ }
+  #A{
+    color: black;
+  text-align: center;
+ }
+ #Aa{
+ font-weight: bold;
+ text-align: left;
+ font-size: 20px;
+ }
+ p{
+  text-align: center;
+ }
+ span{
+  font-size: 5px;
+  color: blue;
+ }
+ #F{
+  float: right;
+
+ 
+ }
+ fieldset{
+  width: 800px;
+  margin-left: 200px;
+  border: white;
+  background-color: pink;
+ }
+  #D{
+  width: 800px;
+  margin-left: 200px;
+  border: white;
+  background-color: white;
+  
+ }
+span{
+  display: flex;
+  justify-content: space-between;
+ 
+  font-size: 22px;
+   padding: 0px;
+
+}
+ul{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 19px;
+  */
+
+ #A{
+ 
+  display: flex;
+   justify-content: space-between;
+   margin-left: 100px;
+   margin-right: 100px;
+   box-shadow: 30px;
+   font-size: 23px;
+    font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+a{
+color: grey;
+text-decoration: none;
+}
+fieldset{
+   margin-top: 20px;
+  background-color: rgb(30, 25, 25);
+   border: 1px solid black;
+   border-radius: 10px;
+   margin-left: 140px;
+   margin-right: 140px;
+}
+body{
+  background-color: black;
+}
+h2{
+  color: white;
+  margin-top: 100px;
+margin-left: 230px;
+font-size: 30px;
+  font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+p{
+   font-family: "Google Sans", sans-serif;
+  color: grey;
+  width: 350px;
+  margin-left: 230px;
+  padding-bottom: 20px;
+  text-transform: capitalize; 
+   font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+#img{
+
+  height: 300px;
+  width: 250px;
+  margin-right: 200px;
+  margin-top: 70px;
+  margin-left: 250px;
+  border-radius: 100px;
+ 
+}
+#S{
+   display: flex;
+   justify-content: space-between;
+   margin-top: 40px;
+}
+#F{
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 170px;
+  margin-right: 150px;
+ 
+}
+button{
+ background-color: rgb(13, 10, 10);
+ color: grey;
+ margin-top: 80px;
+ width: 120px;
+ height: 30px;
+ border: 1px solid rgb(28, 24, 24);
+ font-size: 16px;
+    font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+#Q{
+  color: white;
+margin-left: 230px;
+  border: 1px solid green;
+  height: 30px;
+  width: 300px;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 7px;
+  background-color: green;
+}
+#M{
+  color: white;
+    font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+span{
+   color: white;
+   margin-bottom: 100px;
+   margin-left: 200px;
+}
+#N{
+  background-color: white;
+  width: 1225px;
+  margin-left: -5px;
+  margin-top: 60px;
+}
+#V{
+  text-align: center;
+  margin-left: 190px;
+  margin-top: 30px;
+}
+h3{
+  color: black;
+  font-size: 30px;
+  margin-right: 200px;
+}
+#Z{
+  width: 500px;
+  margin-left: 170px;
+}
+#T{
+  margin-left: 100px;
+   font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+#H{
+  margin-left: 100px;
+  font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+#IO{
+  display: flex;
+   justify-content: space-between;
+   
+}
+#R{
+  margin-top: 35px;
+  border-radius: 10px;
+  margin-right: 90px;
+  width: 400px;
+  height: 270px;
+}
+#VC{
+  color: white;
+  margin-left: 100px;
+  border: 1px solid green;
+  height: 30px;
+  width: 300px;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 7px;
+  background-color: green;
+}
+#Mm{
+  color: white;
+ font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+
+   margin-left: 200px;
+}
+#N{
+  background-color: white;
+  width: 1225px;
+  margin-left: -5px;
+  margin-top: 60px;
+}
+#V{
+  text-align: center;
+  margin-left: 190px;
+  margin-top: 30px;
+}
+h3{
+  color: black;
+  font-size: 30px;
+  margin-right: 200px;
+}
+#Z{
+  width: 500px;
+  margin-left: 170px;
+}
+#T{
+  margin-left: 100px;
+   font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+#H{
+  margin-left: 100px;
+  font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+#IO{
+  display: flex;
+   justify-content: space-between;
+   
+}
+#R{
+  margin-top: 35px;
+  border-radius: 10px;
+  margin-right: 90px;
+  width: 400px;
+  height: 270px;
+}
+#VC{
+  color: white;
+  margin-left: 100px;
+  border: 1px solid green;
+  height: 30px;
+  width: 300px;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 7px;
+  background-color: green;
+}
+#Mm{
+  color: white;
+ font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
